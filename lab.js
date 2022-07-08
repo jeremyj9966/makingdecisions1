@@ -6,7 +6,14 @@
   If it is not, console log "Coding has its challenges."
 */
 console.log("hello world")
-//CODE HERE
+//CODE HERE 
+let lovescode = false 
+
+if ( lovescode === true){
+  console.log(" I love to code!")
+  } else{
+    console.log("coding has its challenges.")
+  }
 
 // For problems 2-3 use the following lines of code:
 var amysAge = 29;
@@ -21,6 +28,9 @@ var brittanisBirthYear = 1986;
 */
 
 //CODE HERE
+if (amysAge < brittanisAge){
+  console.log ("Brittani is older")
+}
 
 ////////// PROBLEM 3 //////////
 
@@ -29,6 +39,12 @@ var brittanisBirthYear = 1986;
 */
 
 //CODE HERE
+
+if ( amysBirthYear === brittanisBirthYear){
+  console.log ("Amy & brittani were born in the same year")
+}else {
+  console.log(" Amy & brittani were not born in the same year")
+}
 
 ////////// PROBLEM 4 //////////
 
@@ -41,6 +57,9 @@ let rain = true;
 */
 
 //CODE HERE
+if (temperature < 80){
+  console.log("you should wear jeans and a t-shirt")
+} else if( )
 
 ////////// PROBLEM 5 //////////
 
@@ -49,6 +68,8 @@ let rain = true;
 */
 
 //CODE HERE
+
+for (let i=0; i,<10; )
 
 ////////// PROBLEM 6 //////////
 
